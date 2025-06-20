@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Github, Linkedin, Mail, ExternalLink, Search, Filter, Award, MapPin, Calendar } from 'lucide-react';
+import { Github, Linkedin, Mail, ExternalLink, Search, Filter, Award,  Calendar, Users } from 'lucide-react';
 import { teamData, getCoreTeam, getVolunteers, getAlumni, getAdvisors, TeamMember } from '../data/teamData';
 
 const Team = () => {
@@ -53,10 +53,10 @@ const Team = () => {
     return members;
   }, [currentTabData, searchTerm, skillFilter]);
 
-  const renderMemberCard = (member: TeamMember, index: number) => {
-    const isCore = member.type === 'core';
+  const renderMemberCard = (member: TeamMember) => {
+    // const isCore = member.type === 'core';
     const isAlumni = member.type === 'alumni';
-    const isAdvisor = member.type === 'advisor';
+    // const isAdvisor = member.type === 'advisor';
 
     return (
       <div key={member.id} className="bg-gray-900/30 backdrop-blur-sm rounded-2xl p-6 border border-gray-800 hover:border-[#41B783]/50 transition-all duration-300 group">
@@ -289,7 +289,7 @@ const Team = () => {
                 ? 'md:grid-cols-2 lg:grid-cols-3'
                 : 'md:grid-cols-2 lg:grid-cols-4'
             }`}>
-              {filteredMembers.map((member, index) => renderMemberCard(member, index))}
+              {filteredMembers.map((member) => renderMemberCard(member))}
             </div>
           )}
         </div>
