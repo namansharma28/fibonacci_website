@@ -76,8 +76,7 @@ const About = () => {
             About Fibonacci Club
           </h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
-            Born from the intersection of mathematics and computer science, we are a community of innovators, 
-            thinkers, and builders who believe that the most elegant solutions follow nature's own patterns.
+            Fibonacci Club is a vibrant community of coders, innovators, and builders passionate about technology, collaboration, and making an impact through code.
           </p>
         </div>
       </section>
@@ -90,7 +89,7 @@ const About = () => {
               What We <span className="text-[#41B783]">Stand For</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Our club focuses on the convergence of coding, robotics, artificial intelligence, and mathematical thinking
+              Our club is dedicated to coding, technology, robotics, artificial intelligence, and creative problem-solving
             </p>
           </div>
 
@@ -120,7 +119,7 @@ const About = () => {
               Our <span className="text-[#41B783]">Journey</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              From humble beginnings to national recognition, here's how we've grown
+              From humble beginnings to a leading force in campus tech, here's how we've grown
             </p>
           </div>
 
@@ -214,7 +213,7 @@ const About = () => {
               Alumni <span className="text-[#41B783]">Success Stories</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Hear from our graduates who are now making waves in the tech industry
+              Hear from our graduates who are now making an impact in the tech industry
             </p>
           </div>
 

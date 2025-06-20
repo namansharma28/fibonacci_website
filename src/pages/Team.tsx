@@ -198,8 +198,7 @@ const Team = () => {
             Meet Our Team
           </h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
-            The brilliant minds behind Fibonacci Club - passionate students, dedicated mentors, 
-            and inspiring alumni who make our community thrive.
+            Meet the passionate students, dedicated mentors, and inspiring alumni who drive our coding community forward.
           </p>
         </div>
       </section>
@@ -333,8 +332,7 @@ const Team = () => {
             Join Our <span className="text-[#41B783]">Team</span>
           </h2>
           <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-            Are you passionate about technology, mathematics, and building community? 
-            We're always looking for dedicated individuals to join our mission.
+            Are you passionate about technology and building community? We're always looking for dedicated individuals to join our mission.
           </p>
           <div className="space-y-4 sm:space-y-0 sm:space-x-4 sm:flex sm:justify-center">
             <a

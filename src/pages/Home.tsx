@@ -172,7 +172,7 @@ const Home = () => {
               Our <span className="text-[#41B783]">Purpose</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Building a community where logic, creativity, and technology converge
+              Building a vibrant community where creativity, technology, and collaboration drive innovation
             </p>
           </div>
 
@@ -186,8 +186,8 @@ const Home = () => {
                 <h3 className="text-2xl font-bold text-white ml-4">Vision</h3>
               </div>
               <p className="text-gray-300 leading-relaxed">
-                To create a thriving ecosystem where students discover the beauty of mathematics through code, 
-                fostering innovation that follows the natural patterns of growth and efficiency found in the Fibonacci sequence.
+                To create a thriving ecosystem where students discover their passion for coding and technology, 
+                fostering innovation and leadership in the tech community.
               </p>
             </div>
 
@@ -200,7 +200,7 @@ const Home = () => {
                 <h3 className="text-2xl font-bold text-white ml-4">Mission</h3>
               </div>
               <p className="text-gray-300 leading-relaxed">
-                Empowering students with cutting-edge programming skills, mathematical thinking, and collaborative 
+                Empowering students with hands-on programming experience, technical skills, and collaborative 
                 problem-solving abilities to tackle real-world challenges and build the future of technology.
               </p>
             </div>
@@ -216,7 +216,7 @@ const Home = () => {
               What We <span className="text-[#41B783]">Stand For</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Our club focuses on the convergence of coding, robotics, artificial intelligence, and mathematical thinking
+              Our club is dedicated to coding, technology, robotics, artificial intelligence, and creative problem-solving
             </p>
           </div>
 
@@ -246,7 +246,7 @@ const Home = () => {
               Our <span className="text-[#41B783]">Journey</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              From humble beginnings to national recognition, here's how we've grown
+              From humble beginnings to a leading force in campus tech, here's how we've grown
             </p>
           </div>
 
@@ -340,7 +340,7 @@ const Home = () => {
               Alumni <span className="text-[#41B783]">Success Stories</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Hear from our graduates who are now making waves in the tech industry
+              Hear from our graduates who are now making an impact in the tech industry
             </p>
           </div>
 
